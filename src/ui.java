@@ -3,16 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ui;
 
 /**
  *
- * @author aitor
+ * @author madrid
  */
-public class NewClass {
+public class ui {
     
 }
-
-//algo
-//change
-
